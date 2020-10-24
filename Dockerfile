@@ -1,6 +1,6 @@
-FROM node:14
+FROM node:15
 
-LABEL version="1.0" 
+LABEL version="1.1" 
 LABEL maintainer="clroot <abcdkh1209@icloud.com>"
 
 VOLUME /deploy/node-app
